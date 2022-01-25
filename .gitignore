@@ -1,0 +1,5 @@
+# GB compiler files
+*.o
+
+# Compiled game binary
+*.gb
